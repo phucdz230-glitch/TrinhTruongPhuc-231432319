@@ -1,2 +1,8 @@
-# Tr-nh-Tr-ng-Ph-c-231432319
-IoT-based Fall Detection System using ESP32, MPU6050, FreeRTOS, MQTT and ThingsBoard.
+Sinh viên:Trịnh Trường Phúc 231432319  
+Các link bài nộp
+Project Wokwi:https://wokwi.com/projects/480592509409397761
+Link web:https://phucdz230-glitch.github.io/TrinhTruongPhuc-231432319/
+
+
+
+
