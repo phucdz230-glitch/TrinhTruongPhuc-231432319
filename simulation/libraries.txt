@@ -1,0 +1,5 @@
+Adafruit MPU6050
+PubSubClient
+Adafruit BusIO
+ArduinoJson
+Adafruit Unified Sensor
