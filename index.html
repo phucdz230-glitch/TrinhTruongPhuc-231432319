@@ -220,8 +220,8 @@
     <script>
         const TB_URL = "https://thingsboard.cloud";
         const DEVICE_ID = "c993aac0-df7d-11f1-9e07-9d43a918aac5";
-        const USERNAME = "phucdz230@gmail.com";
-        const PASSWORD = "Phuc@211005";
+        const USERNAME = window.prompt("Nhập email ThingsBoard của bạn:") || "";
+        const PASSWORD = window.prompt("Nhập mật khẩu ThingsBoard:") || "";
 
         let jwtToken = null;
         let ledState = false;
